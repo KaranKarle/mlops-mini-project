@@ -1,0 +1,6 @@
+[core]
+    remote = myremote1
+['remote "myremote"']
+    url = C:\Users\ADMINI~1\AppData\Local\Temp
+['remote "myremote1"']
+    url = C:\Users\ADMINI~1\AppData\Local\Temp
